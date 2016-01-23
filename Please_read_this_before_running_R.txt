@@ -1,0 +1,3 @@
+Please, load data using load.R file then proceed to plotting.
+
+Thank you.
